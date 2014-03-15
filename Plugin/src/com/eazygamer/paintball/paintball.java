@@ -19,5 +19,8 @@ public class paintball extends JavaPlugin{
 	public void gamemodes(){
 		
 	}
+	public void players(){
+		
+	}
 
 }
